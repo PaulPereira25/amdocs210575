@@ -5,3 +5,5 @@ iamp
 iampa
 iampau
 iampaul
+
+import pandas
